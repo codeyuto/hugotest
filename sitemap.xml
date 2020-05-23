@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://codeyuto.github.io/hugotest/categories/</loc>
+    <loc>https://codeyuto.github.io/hugotest/</loc>
+    <lastmod>2020-05-23T16:19:49+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://codeyuto.github.io/hugotest/</loc>
+    <loc>https://codeyuto.github.io/hugotest/post/my-new-post/</loc>
+    <lastmod>2020-05-23T16:19:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeyuto.github.io/hugotest/post/</loc>
+    <lastmod>2020-05-23T16:19:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://codeyuto.github.io/hugotest/categories/</loc>
   </url>
   
   <url>
